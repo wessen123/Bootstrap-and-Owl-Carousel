@@ -1,0 +1,22 @@
+.owl-carousel .owl-video-wrapper {
+    position: relative;
+    height: 100%;
+    background-image: url(/assets/custom/img/cover.jpg) !important;
+    background-size: cover !important;
+}
+.hero{
+    padding: 21px;
+    background-color: cornflowerblue;
+    color: #fff !important;
+}
+
+.subHero {
+    padding: 101px;
+}
+.subHero h1, .subHero h4{
+    color: #fff;
+}
+
+.carousel-inner {
+  height: 100% !important;
+}
